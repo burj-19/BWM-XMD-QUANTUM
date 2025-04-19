@@ -1,6 +1,4 @@
 
-
-
 {
   "name": "BWM-XMD-QUANTUM",
   "description": "Best WhatsApp bot developed by Ibrahim Adams",
@@ -16,7 +14,7 @@
       "required": true
     },
     "AUTO_REJECT_CALL": {
-      "description": "Enter yes for your bot to auto react",
+      "description": "Enter yes for your bot to auto reject calls",
       "value": "no",
       "required": false
     },
@@ -72,7 +70,7 @@
     },
    "STATUS_REACT_EMOJIS": {
       "description": "Enter your auto like status emojis",
-      "value": "🚀,🌎",
+      "value": "💚,🚀,🌎,✅",
       "required": false 
     },
     "AUTO_REACT": {
